@@ -2,6 +2,8 @@
 
 ## Instalação e Configuração
 
+Para instalar os serviços necessários, veja o arquivo DEPLOYMENT.md
+
 ### 1. Clonar o Repositório (ou usar workspace existente)
 
 ```bash
